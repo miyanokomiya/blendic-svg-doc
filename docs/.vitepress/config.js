@@ -6,6 +6,8 @@ module.exports = {
 
   themeConfig: {
     repo: 'miyanokomiya/blendic-svg-doc',
+    docsDir: 'docs',
+    docsBranch: 'main',
     editLinks: true,
     editLinkText: 'Edit this page on GitHub',
     lastUpdated: 'Last Updated',
