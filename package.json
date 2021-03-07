@@ -1,0 +1,21 @@
+{
+  "name": "blendic-svg-doc",
+  "version": "0.0.0",
+  "description": "doc for Blendic SVG",
+  "main": "index.js",
+  "repository": "https://github.com/miyanokomiya/blendic-svg-doc.git",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs",
+    "lint": "yarn eslint --ext js ./*.js ./docs",
+    "lint-json": "yarn prettier -c ./*.json"
+  },
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1",
+    "vitepress": "^0.12.2"
+  }
+}
