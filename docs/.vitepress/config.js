@@ -23,7 +23,49 @@ module.exports = {
       '/': [
         { text: 'Introduction', link: '/index' },
         { text: 'Overview', link: '/overview' },
-        { text: 'Quick Start', link: '/quick-start' },
+        {
+          text: 'Mode',
+          link: '/mode',
+          children: [
+            { text: 'Object', link: '/mode/object' },
+            { text: 'Edit', link: '/mode/edit' },
+            { text: 'Pose', link: '/mode/pose' },
+            { text: 'Weight Paint', link: '/mode/weight-paint' },
+          ],
+        },
+        {
+          text: 'Animation',
+          link: '/animation',
+          children: [
+            { text: 'Action', link: '/animation/action' },
+            { text: 'Controller', link: '/animation/controller' },
+            { text: 'Keyframe', link: '/animation/Keyframe' },
+          ],
+        },
+        {
+          text: 'Constraint',
+          link: '/constraint',
+          children: [
+            { text: 'IK', link: '/constraint/ik' },
+            { text: 'Limit Rotation', link: '/constraint/limit-rotation' },
+          ],
+        },
+        {
+          text: 'History',
+          link: '/history',
+        },
+        {
+          text: 'Project File',
+          link: '/project',
+        },
+        {
+          text: 'Import',
+          link: '/import',
+        },
+        {
+          text: 'Export',
+          link: '/export',
+        },
       ],
     },
   },
