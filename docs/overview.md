@@ -32,7 +32,7 @@ Change `Weight` mode.
 
 ![](./assets/weight_mode.png)
 
-Select SVG element and bind a bone.
+Select SVG elements and bind to bones.
 
 ![](./assets/bind_elm.png)
 
@@ -44,7 +44,7 @@ Change `Pose` mode.
 
 ![](./assets/pose_mode.png)
 
-Transform bones to transform binded SVG elements.
+Transform bones to transform bound SVG elements.
 
 ![](./assets/pose.png)
 
@@ -52,13 +52,15 @@ Transform bones to transform binded SVG elements.
 
 ## Insert Keyframes
 
-Insert keyframes to fix the transformations of bones at the frame.
+Insert keyframes to save the transformations of bones at the frame.
 
 ![](./assets/key.png)
 
 [See mode](animation/keyframe)
 
 ## Play Animation
+
+The transformations between keyframes are interpolated automatically.
 
 ![](./assets/play.gif)
 
