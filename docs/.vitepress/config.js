@@ -1,4 +1,5 @@
 module.exports = {
+  base: process.env.BASE_PATH,
   lang: 'en-US',
   title: 'Blendic SVG',
   description:

@@ -9,7 +9,7 @@ jobs:
   deploy_demo:
     runs-on: ubuntu-latest
     env:
-      BASE_PATH: /blendic-svg/
+      BASE_PATH: /blendic-svg-doc/
     steps:
       - uses: actions/checkout@v2
       - name: Setup Node
