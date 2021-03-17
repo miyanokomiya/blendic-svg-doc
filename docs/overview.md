@@ -6,32 +6,76 @@ title: Overview
 
 ## Import SVG
 
+![](./assets/import_svg.png)
+
+![](./assets/svg.png)
+
 [See mode](import)
 
 ## Add Bones
+
+Select a armature and change `Edit` mode.
+
+![](./assets/object_mode.png)
+
+![](./assets/edit_mode.png)
+
+Add and edit Bones.
+
+![](./assets/add_bones.png)
 
 [See mode](mode/edit)
 
 ## Weight Paint
 
+Change `Weight` mode.
+
+![](./assets/weight_mode.png)
+
+Select SVG element and bind a bone.
+
+![](./assets/bind_elm.png)
+
 [See mode](mode/weight-paint)
 
 ## Pose
+
+Change `Pose` mode.
+
+![](./assets/pose_mode.png)
+
+Transform bones to transform binded SVG elements.
+
+![](./assets/pose.png)
 
 [See mode](mode/pose)
 
 ## Insert Keyframes
 
+Insert keyframes to fix the transformations of bones at the frame.
+
+![](./assets/key.png)
+
 [See mode](animation/keyframe)
 
 ## Play Animation
+
+![](./assets/play.gif)
 
 [See mode](animation/controller)
 
 ## Bake and Export
 
+Export baked animations.
+
+![](./assets/import_svg.png)
+
 [See mode](export)
 
-## Embed by Client player
+## Play in a web page
+
+![](./assets/client.gif)
+
+[Client player is here](https://github.com/miyanokomiya/blendic-svg-player)
 
 [See mode](export)

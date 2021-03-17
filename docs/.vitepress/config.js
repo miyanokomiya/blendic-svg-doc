@@ -47,6 +47,8 @@ module.exports = {
           link: '/constraint',
           children: [
             { text: 'IK', link: '/constraint/ik' },
+            { text: 'Copy Location', link: '/constraint/copy-location' },
+            { text: 'Copy Rotation', link: '/constraint/copy-rotation' },
             { text: 'Limit Rotation', link: '/constraint/limit-rotation' },
           ],
         },
