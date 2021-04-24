@@ -91,12 +91,12 @@ Some operations are complatible with grid snapping.
 Hold `Ctrl` to snap some interval while moving the mouse.
 
 
-## Extlude
+## Extrude
 
-Press `e` to extlude bones from selected heads and tails, and then enter `grab` operation automatically.
+Press `e` to extrude bones from selected heads and tails, and then enter `grab` operation automatically.
 
-![](./assets/bone_extlude_from.png)
-![](./assets/bone_extlude_to.png)
+![](./assets/bone_extrude_from.png)
+![](./assets/bone_extrude_to.png)
 
 
 ## Duplicate
