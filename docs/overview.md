@@ -10,7 +10,7 @@ title: Overview
 
 ![](./assets/svg.png)
 
-[See mode](import)
+<!-- TODO [See mode](import) -->
 
 ## Add Bones
 
@@ -30,13 +30,13 @@ Add and edit Bones.
 
 Change `Weight` mode.
 
-![](./assets/weight_mode.png)
+<!-- ![](./assets/weight_mode.png) -->
 
 Select SVG elements and bind to bones.
 
 ![](./assets/bind_elm.png)
 
-[See mode](mode/weight-paint)
+<!-- [See mode](mode/weight-paint) -->
 
 ## Pose
 
@@ -56,7 +56,7 @@ Insert keyframes to save the transformations of bones at the frame.
 
 ![](./assets/key.png)
 
-[See mode](animation/keyframe)
+[See mode](mode/pose.html#insert-keyframes)
 
 ## Play Animation
 
@@ -64,7 +64,7 @@ The transformations between keyframes are interpolated automatically.
 
 ![](./assets/play.gif)
 
-[See mode](animation/controller)
+<!-- TODO [See mode](animation/controller) -->
 
 ## Bake and Export
 
@@ -72,7 +72,7 @@ Export baked animations.
 
 ![](./assets/import_svg.png)
 
-[See mode](export)
+<!-- TODO [See mode](export) -->
 
 ## Play in a web page
 
@@ -80,4 +80,4 @@ Export baked animations.
 
 [Client player is here](https://github.com/miyanokomiya/blendic-svg-player)
 
-[See mode](export)
+<!-- TODO [See mode](export) -->
