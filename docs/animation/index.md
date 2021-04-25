@@ -13,9 +13,12 @@ This cannot be changed currently.
 
 ## [Controller](./controller)
 
-## [Keyframe](./keyframe)
-
 ## [Action Sheet](./action-sheet)
+
+Select from the selection field in the upper left corner of the timeline.
+
+![](./assets/select_sheet.png)
 
 ## [Graph Sheet](./graph-sheet)
 
+Select as well as the action sheet

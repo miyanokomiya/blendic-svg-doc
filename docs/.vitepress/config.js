@@ -40,7 +40,6 @@ module.exports = {
           children: [
             { text: 'Action', link: '/animation/action' },
             { text: 'Controller', link: '/animation/controller' },
-            { text: 'Keyframe', link: '/animation/Keyframe' },
             { text: 'Action Sheet', link: '/animation/action-sheet' },
             { text: 'Graph Sheet', link: '/animation/graph-sheet' },
           ],
