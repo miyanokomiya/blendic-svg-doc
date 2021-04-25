@@ -26,7 +26,7 @@ module.exports = {
         { text: 'Overview', link: '/overview' },
         {
           text: 'Mode',
-          link: '/mode',
+          link: '/mode/index',
           children: [
             { text: 'Object', link: '/mode/object' },
             { text: 'Edit', link: '/mode/edit' },
