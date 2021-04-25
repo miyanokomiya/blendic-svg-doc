@@ -51,12 +51,12 @@ module.exports = {
         {
           text: 'Constraint',
           link: '/constraint/index',
-          children: [
-            { text: 'IK', link: '/constraint/ik' },
-            { text: 'Copy Location', link: '/constraint/copy-location' },
-            { text: 'Copy Rotation', link: '/constraint/copy-rotation' },
-            { text: 'Limit Rotation', link: '/constraint/limit-rotation' },
-          ],
+          // TODO
+          // children: [
+          //   { text: 'IK', link: '/constraint/ik' },
+          //   { text: 'Limit', link: '/constraint/limit' },
+          //   { text: 'Copy', link: '/constraint/copy' },
+          // ],
         },
         {
           text: 'History',
