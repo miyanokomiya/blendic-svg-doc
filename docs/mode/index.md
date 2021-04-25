@@ -10,7 +10,7 @@ Select from the buttons in the upper left corner of the screen to change the mod
 
 ![](./assets/select_model.png)
 
-Edit mode and pose mode can't be selected without selecting a armature.  
+Edit mode and pose mode can't be selected without selecting any armature.  
 Weight paint mode can't be selected without importing SVG image.
 
 :::tip

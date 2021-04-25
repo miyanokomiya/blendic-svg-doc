@@ -10,7 +10,7 @@ title: Overview
 
 ![](./assets/svg.png)
 
-<!-- TODO [See mode](import) -->
+[See mode](/import-export/index.html#svg)
 
 ## Add Bones
 
@@ -36,7 +36,7 @@ Select SVG elements and bind to bones.
 
 ![](./assets/bind_elm.png)
 
-<!-- [See mode](mode/weight-paint) -->
+[See mode](mode/weight-paint)
 
 ## Pose
 
@@ -64,7 +64,7 @@ The transformations between keyframes are interpolated automatically.
 
 ![](./assets/play.gif)
 
-<!-- TODO [See mode](animation/controller) -->
+[See mode](animation/controller)
 
 ## Bake and Export
 
@@ -72,7 +72,7 @@ Export baked animations.
 
 ![](./assets/import_svg.png)
 
-<!-- TODO [See mode](export) -->
+[See mode](/import-export/index.html#export-baked-actions)
 
 ## Play in a web page
 

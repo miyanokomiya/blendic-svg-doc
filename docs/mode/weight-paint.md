@@ -10,7 +10,7 @@ You need to import SVG file beforehand to start this mode.
 
 ![](./assets/import_svg.png)
 
-<!-- TODO [See mode](import) -->
+[See mode](/import-export/index.html#svg)
 
 ## Select an Element
 

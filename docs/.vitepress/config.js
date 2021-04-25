@@ -59,16 +59,8 @@ module.exports = {
           link: '/history/index',
         },
         {
-          text: 'Project File',
-          link: '/project/index',
-        },
-        {
-          text: 'Import',
-          link: '/import/index',
-        },
-        {
-          text: 'Export',
-          link: '/export/index',
+          text: 'Import / Export',
+          link: '/import-export/index',
         },
       ],
     },

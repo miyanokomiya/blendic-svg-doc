@@ -41,7 +41,7 @@ Press `x` to delete selected bones.
 
 Use `Command` instead of `Ctrl` in Mac OS.
 
-[See mode](/history)
+[See mode](/history/index)
 :::
 
 ## Grab
