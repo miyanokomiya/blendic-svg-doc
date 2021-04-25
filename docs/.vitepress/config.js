@@ -36,16 +36,18 @@ module.exports = {
         },
         {
           text: 'Animation',
-          link: '/animation',
+          link: '/animation/index',
           children: [
             { text: 'Action', link: '/animation/action' },
             { text: 'Controller', link: '/animation/controller' },
             { text: 'Keyframe', link: '/animation/Keyframe' },
+            { text: 'Action Sheet', link: '/animation/action-sheet' },
+            { text: 'Graph Sheet', link: '/animation/graph-sheet' },
           ],
         },
         {
           text: 'Constraint',
-          link: '/constraint',
+          link: '/constraint/index',
           children: [
             { text: 'IK', link: '/constraint/ik' },
             { text: 'Copy Location', link: '/constraint/copy-location' },
@@ -55,19 +57,19 @@ module.exports = {
         },
         {
           text: 'History',
-          link: '/history',
+          link: '/history/index',
         },
         {
           text: 'Project File',
-          link: '/project',
+          link: '/project/index',
         },
         {
           text: 'Import',
-          link: '/import',
+          link: '/import/index',
         },
         {
           text: 'Export',
-          link: '/export',
+          link: '/export/index',
         },
       ],
     },
