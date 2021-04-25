@@ -4,6 +4,12 @@ title: Graph Sheet
 
 # {{ $frontmatter.title }}
 
+
+## Scroll / Zoom
+
+Same as [main canvas](/mode/index.html#scroll).
+
+
 ## Select a keyframe
 
 Click a keyframe to select it.

@@ -8,6 +8,12 @@ title: Action Sheet
 Small circles in the timeline represent keyframes.
 :::
 
+
+## Scroll / Zoom
+
+Same as [main canvas](/mode/index.html#scroll).
+
+
 ## Select a keyframe
 
 Click a keyframe to select it.

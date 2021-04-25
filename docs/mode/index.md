@@ -4,6 +4,20 @@ title: Mode
 
 # {{ $frontmatter.title }}
 
+## Scroll
+
+The display area can be moved by middle dragging.
+
+:::warning
+Trackpad is not supported currently.  
+Please wait for future updates.
+:::
+
+## Zoom
+
+The display area can be zoomed by wheel operation.
+
+
 ## Select Mode
 
 Select from the buttons in the upper left corner of the screen to change the mode.
