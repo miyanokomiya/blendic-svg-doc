@@ -40,6 +40,8 @@ Press `x` to delete selected bones.
 `Ctrl + Shift + z` will redo last undo operation.
 
 Use `Command` instead of `Ctrl` in Mac OS.
+
+[See mode](/history)
 :::
 
 ## Grab
