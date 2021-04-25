@@ -18,6 +18,10 @@ module.exports = {
         text: 'Blendic SVG',
         link: 'https://github.com/miyanokomiya/blendic-svg',
       },
+      {
+        text: 'Blendic SVG Player',
+        link: 'https://github.com/miyanokomiya/blendic-svg-player',
+      },
     ],
 
     sidebar: {

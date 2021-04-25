@@ -56,3 +56,11 @@ Then, click `Export` button to export them.
 :::warning
 This button can't be clicked without selecting any armature.
 :::
+
+
+### Play on a Website
+
+The exported data can be played on a website by using a client player.
+
+This is the framework agnostic and lightweight player implementation.  
+[blendic-svg-player](https://github.com/miyanokomiya/blendic-svg-player)
