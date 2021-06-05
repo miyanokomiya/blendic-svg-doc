@@ -27,6 +27,21 @@ If the targets have been selected already, `Shift + Click` will clear the select
 Press `a` to select all bones.  
 If all bones have been selected already, pressing `a` will clear the selection.
 
+
+## Bones tree
+
+You can also select bones from the tree.
+
+Click Tree tab on the right side of the screen to display the tree panel.
+
+![](./assets/bones_tree.png)
+
+::: tip
+You can rename a bone by double clicking the target in the tree.
+
+![](./assets/rename_in_tree.png)
+:::
+
 ## Add a Bone
 
 Press `A` to add new bone.
