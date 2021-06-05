@@ -48,7 +48,12 @@ Press `A` to add new bone.
 
 ## Delete Bones
 
-Press `x` to delete selected bones.
+Press `x` to show a menu to delete selected bones.
+
+Select `Dissolve` if you want to connect tha parent and children of the deleted bones.  
+Select `Delete` if you want to dissconnect them.
+
+![](./assets/delete_bone_menu.png)
 
 ::: tip
 `Ctrl + z` will undo last operation.  
