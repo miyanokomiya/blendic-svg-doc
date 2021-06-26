@@ -4,6 +4,10 @@ title: Bone Constraint
 
 # {{ $frontmatter.title }}
 
+You can apply some constraints to bones, such as IK, copying, limiting and so on.
+
+![](./assets/ik_jump.gif)
+
 Click `Detail` tab on the right side of the screen to display the detail panel.  
 
 ![](./assets/select_constraint.png)
