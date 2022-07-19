@@ -9,6 +9,9 @@ title: Introduction
 Blendic SVG is Free Software.  
 This is SVG animation editor for web.
 
+![](./assets/boxing-anim.svg)
+![](./assets/jump-anim.svg)
+![](./assets/rotate.svg)
 
 ## Edge version demo
 

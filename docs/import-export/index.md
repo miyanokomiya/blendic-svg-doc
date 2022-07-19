@@ -27,9 +27,7 @@ Save the project file.
 If you are using chromium, it supports overwrite saving.
 :::
 
-## SVG
-
-### Import
+## Import
 
 Import SVG elements from the file.
 
@@ -39,13 +37,27 @@ If you set `Inherit weight` true, current information of binding bones to elemen
 This inheritance is based on the id of the element.
 :::
 
-### Export
+## Export
+
+![](./assets/export.png)
+
+### Static SVG
 
 Export current transformed elements as SVG file.
 
-## Action
+### Animated SVG
 
-### Export Baked Actions
+Export current animation as animated SVG file.  
+Some settings can be changed before exporting.
+
+![](./assets/animation_settings.png)
+
+:::warning
+This SVG file depends on both SVG animation and CSS animation.
+:::
+
+
+### Baked Actions for client player
 
 Export information about elements and actions baked as animation.  
 Click `Baked Action` button to display the dialog and select the actions to be baked.  
@@ -57,10 +69,8 @@ Then, click `Export` button to export them.
 This button can't be clicked without selecting any armature.
 :::
 
+This exported data can be played on a website by using a client player.
 
-### Play on a Website
-
-The exported data can be played on a website by using a client player.
-
-This is the framework agnostic and lightweight player implementation.  
+This is a framework agnostic and lightweight player implementation.  
 [blendic-svg-player](https://github.com/miyanokomiya/blendic-svg-player)
+

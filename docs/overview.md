@@ -10,7 +10,7 @@ title: Overview
 
 ![](./assets/svg.png)
 
-[See mode](/import-export/index.html#svg)
+[See more](/import-export/index.html#svg)
 
 ## Add Bones
 
@@ -24,7 +24,7 @@ Add and edit Bones.
 
 ![](./assets/add_bones.png)
 
-[See mode](mode/edit)
+[See more](mode/edit)
 
 ## Weight Paint
 
@@ -36,7 +36,7 @@ Select SVG elements and bind to bones.
 
 ![](./assets/bind_elm.png)
 
-[See mode](mode/weight-paint)
+[See more](mode/weight-paint)
 
 ## Pose
 
@@ -48,7 +48,7 @@ Transform bones to transform bound SVG elements.
 
 ![](./assets/pose.png)
 
-[See mode](mode/pose)
+[See more](mode/pose)
 
 ## Insert Keyframes
 
@@ -56,7 +56,7 @@ Insert keyframes to save the transformations of bones at the frame.
 
 ![](./assets/key.png)
 
-[See mode](mode/pose.html#insert-keyframes)
+[See more](mode/pose.html#insert-keyframes)
 
 ## Play Animation
 
@@ -64,7 +64,7 @@ The transformations between keyframes are interpolated automatically.
 
 ![](./assets/play.gif)
 
-[See mode](animation/controller)
+[See more](animation/controller)
 
 ## Bake and Export
 
@@ -72,7 +72,7 @@ Export baked animations.
 
 ![](./assets/import_svg.png)
 
-[See mode](/import-export/index.html#export-baked-actions)
+[See more](/import-export/index.html#export)
 
 ## Play in a web page
 
@@ -80,4 +80,12 @@ Export baked animations.
 
 [Client player is here](https://github.com/miyanokomiya/blendic-svg-player)
 
-<!-- TODO [See mode](export) -->
+## Export animated SVG.
+
+Animations can be exported as authentic SVG with CSS animation, like these.
+
+![](./assets/boxing-anim.svg)
+![](./assets/jump-anim.svg)
+![](./assets/rotate.svg)
+
+[See more](/import-export/index.html#export)
