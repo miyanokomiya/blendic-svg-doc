@@ -46,7 +46,7 @@ Change `Pose` mode.
 
 Transform bones to transform bound SVG elements.
 
-![](./assets/pose.png)
+![SVG kinematic animation via bones: pose](./assets/pose.png)
 
 [See more](mode/pose)
 
@@ -54,7 +54,7 @@ Transform bones to transform bound SVG elements.
 
 Insert keyframes to save the transformations of bones at the frame.
 
-![](./assets/key.png)
+![SVG kinematic animation via bones: insert keyframes](./assets/key.png)
 
 [See more](mode/pose.html#insert-keyframes)
 
@@ -62,7 +62,7 @@ Insert keyframes to save the transformations of bones at the frame.
 
 The transformations between keyframes are interpolated automatically.
 
-![](./assets/play.gif)
+![SVG kinematic animation via bones: animate](./assets/play.gif)
 
 [See more](animation/controller)
 
@@ -84,8 +84,8 @@ Export baked animations.
 
 Animations can be exported as authentic SVG with CSS animation, like these.
 
-![](./assets/boxing-anim.svg)
-![](./assets/jump-anim.svg)
-![](./assets/rotate.svg)
+![SVG kinematic animation: jumping](./assets/jump-anim.svg)
+![SVG kinematic animation: rotating](./assets/rotate.svg)
+![SVG kinematic animation: boxing](./assets/boxing-anim.svg)
 
 [See more](/import-export/index.html#export)
