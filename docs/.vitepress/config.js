@@ -32,7 +32,6 @@ module.exports = {
           text: 'Mode',
           link: '/mode/index',
           children: [
-            { text: 'Object', link: '/mode/object' },
             { text: 'Edit', link: '/mode/edit' },
             { text: 'Pose', link: '/mode/pose' },
             { text: 'Weight Paint', link: '/mode/weight-paint' },

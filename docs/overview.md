@@ -14,9 +14,7 @@ title: Overview
 
 ## Add Bones
 
-Select a armature and change `Edit` mode.
-
-![](./assets/object_mode.png)
+Start `Edit` mode.
 
 ![](./assets/edit_mode.png)
 

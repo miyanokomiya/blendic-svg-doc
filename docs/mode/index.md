@@ -32,10 +32,6 @@ You can also chage a mode by pressing `Tab` or `Shift + Tab`.
 `Ctrl + tab` is not available because the browser's control takes precedence.
 :::
 
-## [Object Mode](./object)
-
-![](../assets/object_mode.png)
-
 ## [Edit Mode](./edit)
 
 ![](./assets/bone_extrude_to.png)
