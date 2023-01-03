@@ -12,10 +12,10 @@
     "lint-json": "yarn prettier -c ./*.json"
   },
   "devDependencies": {
-    "eslint": "^8.20.0",
-    "eslint-config-prettier": "^8.5.0",
+    "eslint": "^8.31.0",
+    "eslint-config-prettier": "^8.6.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "prettier": "^2.7.1",
+    "prettier": "^2.8.1",
     "vitepress": "^0.15.5"
   }
 }
